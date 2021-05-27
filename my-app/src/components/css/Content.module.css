@@ -38,6 +38,7 @@
 .TitleBar form input{
     border: 1px solid lightgrey;
     margin-left: 10px;
+    margin-bottom: 7px;
 }
 
 .TitleBar h1{
