@@ -25,7 +25,7 @@ export class Content extends Component {
         return (
             <div className={css.Content}>
                 
-                <div className={css.Titlebar}>
+                <div className={css.TitleBar}>
                     <h1>My Photos</h1>
                 </div>
 
